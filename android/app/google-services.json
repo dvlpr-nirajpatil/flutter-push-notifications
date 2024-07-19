@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199501889784",
+    "project_id": "pushnotify-4f182",
+    "storage_bucket": "pushnotify-4f182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199501889784:android:02130ed63030e7f09afb0d",
+        "android_client_info": {
+          "package_name": "com.example.sample_flutter_firebase_notifications_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvf-rgbk_ivHu1d_4XIQU5hN94OPJhhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199501889784:android:c23ca188ddc373349afb0d",
+        "android_client_info": {
+          "package_name": "dev.probity.notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvf-rgbk_ivHu1d_4XIQU5hN94OPJhhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
